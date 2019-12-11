@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theresebroback/testapp/static/css/main.45e0a028.chunk.css",
+    "main.js": "/theresebroback/testapp/static/js/main.0a6b48f7.chunk.js",
+    "main.js.map": "/theresebroback/testapp/static/js/main.0a6b48f7.chunk.js.map",
+    "runtime-main.js": "/theresebroback/testapp/static/js/runtime-main.e7b35135.js",
+    "runtime-main.js.map": "/theresebroback/testapp/static/js/runtime-main.e7b35135.js.map",
+    "static/js/2.6539ca40.chunk.js": "/theresebroback/testapp/static/js/2.6539ca40.chunk.js",
+    "static/js/2.6539ca40.chunk.js.map": "/theresebroback/testapp/static/js/2.6539ca40.chunk.js.map",
+    "index.html": "/theresebroback/testapp/index.html",
+    "precache-manifest.7632cdeca293fe2233e1b398cf441e49.js": "/theresebroback/testapp/precache-manifest.7632cdeca293fe2233e1b398cf441e49.js",
+    "service-worker.js": "/theresebroback/testapp/service-worker.js",
+    "static/css/main.45e0a028.chunk.css.map": "/theresebroback/testapp/static/css/main.45e0a028.chunk.css.map",
+    "static/js/2.6539ca40.chunk.js.LICENSE": "/theresebroback/testapp/static/js/2.6539ca40.chunk.js.LICENSE",
+    "static/media/logo.svg": "/theresebroback/testapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b35135.js",
+    "static/js/2.6539ca40.chunk.js",
+    "static/css/main.45e0a028.chunk.css",
+    "static/js/main.0a6b48f7.chunk.js"
+  ]
+}
